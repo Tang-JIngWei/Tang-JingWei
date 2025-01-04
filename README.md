@@ -12,7 +12,8 @@
   | tangjingwei2002@163.com |
   | tangjingwei2002@gmail.com |
  
- ![43172b22243917 5630f07edae58](https://user-images.githubusercontent.com/51443742/185304833-25af6fc6-db39-4adc-a9ba-3402ea0521d0.gif) <!-- Gif -->
+<!-- 
+![43172b22243917 5630f07edae58](https://user-images.githubusercontent.com/51443742/185304833-25af6fc6-db39-4adc-a9ba-3402ea0521d0.gif) <!-- Gif -->
 
 
 <!--
